@@ -252,10 +252,10 @@
       <screen x="0" y="28" width="1920" height="1024" />
     </state>
     <state x="634" y="277" width="644" height="526" key="#docker-compose.yml:_Compose_Deployment/0.28.1920.1024/0.28.1920.1024@0.28.1920.1024" timestamp="1585906100053" />
-    <state x="366" y="137" width="1180" height="806" key="CommitChangelistDialog2" timestamp="1586115860102">
+    <state x="366" y="137" width="1180" height="806" key="CommitChangelistDialog2" timestamp="1586116143614">
       <screen x="0" y="28" width="1920" height="1024" />
     </state>
-    <state x="366" y="137" width="1180" height="806" key="CommitChangelistDialog2/0.28.1920.1024/0.28.1920.1024@0.28.1920.1024" timestamp="1586115860102" />
+    <state x="366" y="137" width="1180" height="806" key="CommitChangelistDialog2/0.28.1920.1024/0.28.1920.1024@0.28.1920.1024" timestamp="1586116143614" />
     <state x="801" y="432" width="309" height="215" key="DockerComposeFileDialog" timestamp="1585904620165">
       <screen x="0" y="28" width="1920" height="1024" />
     </state>
@@ -284,14 +284,18 @@
       <screen x="0" y="28" width="1920" height="1024" />
     </state>
     <state width="635" height="269" key="GridCell.Tab.0.right/0.28.1920.1024/0.28.1920.1024@0.28.1920.1024" timestamp="1585920406704" />
+    <state x="555" y="276" width="802" height="527" key="Vcs.Push.Dialog.v2" timestamp="1586116147553">
+      <screen x="0" y="28" width="1920" height="1024" />
+    </state>
+    <state x="555" y="276" width="802" height="527" key="Vcs.Push.Dialog.v2/0.28.1920.1024/0.28.1920.1024@0.28.1920.1024" timestamp="1586116147553" />
     <state x="856" y="437" width="369" height="229" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1585945813188">
       <screen x="0" y="28" width="1920" height="1024" />
     </state>
     <state x="856" y="437" width="369" height="229" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.28.1920.1024/0.28.1920.1024@0.28.1920.1024" timestamp="1585945813188" />
-    <state x="811" y="306" width="289" height="467" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1586115745226">
+    <state x="811" y="306" width="289" height="467" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1586116214097">
       <screen x="0" y="28" width="1920" height="1024" />
     </state>
-    <state x="811" y="306" width="289" height="467" key="com.intellij.database.view.ui.DbObjectDialog/0.28.1920.1024/0.28.1920.1024@0.28.1920.1024" timestamp="1586115745226" />
+    <state x="811" y="306" width="289" height="467" key="com.intellij.database.view.ui.DbObjectDialog/0.28.1920.1024/0.28.1920.1024@0.28.1920.1024" timestamp="1586116214097" />
     <state x="606" y="271" width="866" height="606" key="find.popup" timestamp="1585949267605">
       <screen x="0" y="28" width="1920" height="1024" />
     </state>
