@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1d219b4-10f4-4315-a108-5e839c9dbb55" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/postgres-data.tar.gz" beforeDir="false" afterPath="$PROJECT_DIR$/postgres-data.tar.gz" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,6 +133,7 @@
       <workItem from="1586119357581" duration="315000" />
       <workItem from="1586119673478" duration="330000" />
       <workItem from="1586121282605" duration="34000" />
+      <workItem from="1586121692126" duration="38000" />
     </task>
     <task id="LOCAL-00001" summary="del base data">
       <created>1586119327296</created>
@@ -188,10 +189,10 @@
       <screen x="0" y="28" width="1920" height="1024" />
     </state>
     <state x="697" y="304" width="517" height="471" key="EnvironmentVariablesDialog/0.28.1920.1024/0.28.1920.1024@0.28.1920.1024" timestamp="1585903977120" />
-    <state x="622" y="357" width="449" height="483" key="FileChooserDialogImpl" timestamp="1586119670542">
+    <state x="622" y="357" width="449" height="483" key="FileChooserDialogImpl" timestamp="1586121728869">
       <screen x="0" y="28" width="1920" height="1024" />
     </state>
-    <state x="622" y="357" width="449" height="483" key="FileChooserDialogImpl/0.28.1920.1024/0.28.1920.1024@0.28.1920.1024" timestamp="1586119670542" />
+    <state x="622" y="357" width="449" height="483" key="FileChooserDialogImpl/0.28.1920.1024/0.28.1920.1024@0.28.1920.1024" timestamp="1586121728869" />
     <state width="635" height="269" key="GridCell.Tab.0.bottom" timestamp="1585920406704">
       <screen x="0" y="28" width="1920" height="1024" />
     </state>
