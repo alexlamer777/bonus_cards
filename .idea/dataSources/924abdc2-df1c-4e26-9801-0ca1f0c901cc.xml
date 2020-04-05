@@ -3,18 +3,29 @@
   <database-model serializer="dbm" dbms="POSTGRES" family-id="POSTGRES" format-version="4.17">
     <root id="1">
       <ServerVersion>12.2</ServerVersion>
-      <StartupTime>1585939147</StartupTime>
+      <StartupTime>1586113421</StartupTime>
     </root>
     <database id="2" parent="1" name="admin">
       <ObjectId>16384</ObjectId>
       <Owner>admin</Owner>
-      <IntrospectionStateNumber>556</IntrospectionStateNumber>
+      <IntrospectionStateNumber>523</IntrospectionStateNumber>
       <Current>1</Current>
     </database>
     <database id="3" parent="1" name="bonus_cards">
-      <ObjectId>32769</ObjectId>
+      <ObjectId>16385</ObjectId>
       <Owner>admin</Owner>
-      <IntrospectionStateNumber>558</IntrospectionStateNumber>
+      <IntrospectionStateNumber>525</IntrospectionStateNumber>
+      <Relations>sequence|table|16386|16388|1
+sequence|table|16397|16399|1
+sequence|table|16407|16409|1
+sequence|table|16415|16417|1
+sequence|table|16425|16427|1
+sequence|table|16433|16435|1
+sequence|table|16443|16445|1
+sequence|table|16451|16453|1
+sequence|table|16511|16513|1
+sequence|table|16544|16546|1
+</Relations>
     </database>
     <database id="4" parent="1" name="postgres">
       <ObjectId>13408</ObjectId>
@@ -70,7 +81,7 @@
       <Comment>standard public schema</Comment>
       <StateNumber>276</StateNumber>
       <Owner>admin</Owner>
-      <IntrospectionStateNumber>557</IntrospectionStateNumber>
+      <IntrospectionStateNumber>524</IntrospectionStateNumber>
       <Current>1</Current>
     </schema>
     <access-method id="17" parent="2" name="heap">
