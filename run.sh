@@ -1,0 +1,1 @@
+docker-compose -f docker-compose.yml exec backend_dev bash
