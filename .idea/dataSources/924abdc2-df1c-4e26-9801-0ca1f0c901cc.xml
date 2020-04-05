@@ -3,18 +3,18 @@
   <database-model serializer="dbm" dbms="POSTGRES" family-id="POSTGRES" format-version="4.17">
     <root id="1">
       <ServerVersion>12.2</ServerVersion>
-      <StartupTime>1586119216</StartupTime>
+      <StartupTime>1586119410</StartupTime>
     </root>
     <database id="2" parent="1" name="admin">
       <ObjectId>16384</ObjectId>
       <Owner>admin</Owner>
-      <IntrospectionStateNumber>489</IntrospectionStateNumber>
+      <IntrospectionStateNumber>491</IntrospectionStateNumber>
       <Current>1</Current>
     </database>
     <database id="3" parent="1" name="bonus_cards">
       <ObjectId>16385</ObjectId>
       <Owner>admin</Owner>
-      <IntrospectionStateNumber>491</IntrospectionStateNumber>
+      <IntrospectionStateNumber>493</IntrospectionStateNumber>
     </database>
     <database id="4" parent="1" name="postgres">
       <ObjectId>13408</ObjectId>
@@ -70,7 +70,7 @@
       <Comment>standard public schema</Comment>
       <StateNumber>276</StateNumber>
       <Owner>admin</Owner>
-      <IntrospectionStateNumber>490</IntrospectionStateNumber>
+      <IntrospectionStateNumber>492</IntrospectionStateNumber>
       <Current>1</Current>
     </schema>
     <access-method id="17" parent="2" name="heap">
